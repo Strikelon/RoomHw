@@ -8,4 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="MyTextInputLayoutStyle">
+        <item name="android:layout_margin">@dimen/text_input_layout_margin</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
 </resources>
