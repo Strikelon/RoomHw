@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">RoomHw</string>
+    <string name="user_id">Id пользователя (для обновления и удаления)</string>
+    <string name="user_name">Имя пользователя</string>
+    <string name="user_surname">Фамилия пользователя</string>
+    <string name="user_age">Возраст пользователя</string>
+    <string name="user_count">Количество пользователей</string>
+    <string name="add_button">Добавить</string>
+    <string name="update_button">Обновить</string>
+    <string name="delete_button">Удалить</string>
+    <string name="user_name_is_empty">Заполните имя пользователя</string>
+    <string name="user_surname_is_empty">Заполните фамилию пользователя</string>
+    <string name="user_age_is_empty">Заполните возвраст пользователя</string>
+    <string name="user_count_is_empty">Заполните количество</string>
+    <string name="user_age_error">Возраст должен быть больше 0</string>
+    <string name="user_count_error">Количество должено быть больше 0</string>
+    <string name="user_id_is_empty">Заполните id пользователя</string>
+    <string name="user_id_error">id должен быть больше 0</string>
 </resources>
